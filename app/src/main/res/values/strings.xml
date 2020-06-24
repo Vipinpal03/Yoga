@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Yoga</string>
+    <string name="play">Play</string>
+    <string name="exercises">Exercises</string>
+    <string name="settings">Settings</string>
+    <string name="calender">Calender</string>
+    <string name="view_exercises">View Excersies</string>
+    <string name="start">Start</string>
+    <string name="done">DONE</string>
+    <string name="_20">20</string>
+    <string name="save">Save</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="get_ready">Get Ready</string>
+    <string name="_5">5</string>
+    <string name="workout_done">Workout Done</string>
+    <string name="rect">rect</string>
+    <string name="fm2apps">FM2Apps</string>
+    <string name="powered_by">Powered By :</string>
+    <string name="nav_about_yoga">About yoga App</string>
+    <string name="nav_about_us">About FM2Apps</string>
+    <string name="nav_send_feedback">Send Feed Back</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="about_us_what">Who We Are?</string>
+    <string name="about_us_what_text">FM2APPS LLC, Founded in 2017 ,We are young passionate entrepreneurs that aim to enable startups’, small and medium size company to offer digital solutions to their customers while building, advancing their business model. FM2Apps is a software development company that provides digital services in a range of software’s, web application, web development, web design processes, Call Center management and technical management of your product and digital marketing strategies. We strive to make the optimum use of technology for providing the best when it comes to creating a strong brand awareness for our clients at several levels.</string>
+    <string name="about_us_service">Our Services</string>
+    <string name="about_us_service_text">We offer the technical and operation solution to your business . We serve as your sounding board to ensure quality and sustainable solution. We do understand the business challenges and we offer tailored solutions to your business.
+                    \n\nOur Products &amp; Services Range:\n
+   - Mobile App Solutions for Android &amp; iOS\n
+   - Website Design &amp; Development\n
+   - Social Media Management &amp; SEO\n
+   - Call Center Setup &amp; Management\n
+   - Creative Design</string>
+    <string name="about_us_contact">Contact Us</string>
+    <string name="about_us_contact_text">Get in touch and we’ll get back to you as soon as we can. We look forward to hearing from you</string>
+    <string name="about_us_head_office">Head Office</string>
+    <string name="about_us_head_office_text">15 El Shahed Helmy Kamal St. , Heliopolis, Cairo , Egypt\nTel: +20226389355</string>
+    <string name="about_us_email">Email</string>
+    <string name="about_us_email_text">info@fm2apps.com</string>
+    <string name="about_us_working_hours">Working Hours</string>
+    <string name="about_us_working_hours_text">- Sunday- Thursday\n- From : 09.00 AM - 05.00 PM</string>
+</resources>

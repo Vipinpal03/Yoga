@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minWidth="250dp"
+    android:background="@color/colorPrimaryDark"
+    tools:context=".AboutFm2AppsFragment">
+
+    <TextView
+        android:id="@+id/tv_about_FM2Apps"
+        android:layout_margin="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="@android:color/white"
+        android:text="FM2APPS known as a professional software development company is highly concerned with the quality of our solutions and services. Moreover, our team constantly works on developing and improving our service performance to satisfy our customers and maintain long-term cooperation with them. Ultimate solution understands the unique problems and issues in creating Software that runs successfully, and works to assist our clients" />
+
+</FrameLayout>
